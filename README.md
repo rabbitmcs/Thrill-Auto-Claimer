@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/thrill.webp" alt="Thrill" height="48">
+  <img src="https://stakecodedrop.com/assets/thrillclaimer/thrill.webp" alt="Thrill" height="48">
 </p>
 
 <h1 align="center">Thrill Cash Drop Auto-Claimer</h1>
@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <img src="assets/thrillclaimer.png" alt="Thrill Auto-Claimer popup" width="340">
+  <img src="https://stakecodedrop.com/assets/thrillclaimer/thrillclaimer.png" alt="Thrill Auto-Claimer popup" width="340">
 </p>
 
 ## What it does
@@ -23,11 +23,12 @@ Thrill posts cash drop codes that expire fast and get claimed within seconds. Th
 
 ## Install
 
-1. Download or clone this repo.
-2. Open `chrome://extensions` in Chrome.
-3. Turn on **Developer mode** (top right).
-4. Click **Load unpacked** and select this folder.
-5. Pin the extension and sign in to Thrill in the same browser.
+1. Download **`thrill-auto-claimer.zip`**.
+2. Unzip it — you'll get a `thrill-auto-claimer` folder.
+3. Open `chrome://extensions` in Chrome.
+4. Turn on **Developer mode** (top right).
+5. Click **Load unpacked** and select the unzipped folder.
+6. Pin the extension and sign in to Thrill in the same browser.
 
 ## Usage
 
